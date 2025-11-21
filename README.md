@@ -4,7 +4,7 @@ Team Name and Members:
 
 Audrey Staples - https://github.com/audreystaples/mist4620groupproject2/blob/main/README.md
 
-Angela Ren 
+Angela Ren - https://github.com/angelaaa456/mist4610groupproject2 
 
 Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject2
 
