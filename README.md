@@ -6,7 +6,7 @@ Audrey Staples - https://github.com/audreystaples/mist4620groupproject2/blob/mai
 
 Angela Ren 
 
-Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject2/edit/main/README.md
+Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject2
 
 Sam Effron -  https://github.com/Seffron/mist4610groupproject2/blob/main/README.md
 
